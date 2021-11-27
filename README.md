@@ -13,9 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Past Work
+##  Videos
+[Playlist for Helix Plugins](https://www.youtube.com/playlist?list=PL50V8K9LmkBKDSyHqVrG-ihJVH87Ilq6_)
+[Beard System for Helix](https://www.youtube.com/watch?v=l7DI9xsG8rw)
+[TDM Cars for Helix](https://www.youtube.com/watch?v=Gtc_TLLnlng)
+[Global Shoot-to-Kill State for Helix](https://www.youtube.com/watch?v=EYbvaPSBzB8)
+
+
 # 🔭 I’m currently working on
 ## GDOME: Cyberpunk Roleplay
-###		A serious roleplay gamemode with RPG elements. It is built upon the Helix framework created for Garry's Mod.
+> A serious roleplay gamemode with RPG elements. It is built upon the Helix framework created for Garry's Mod.
 # 🌱 I’m currently learning
 ### 	Lua
 ### 	Java
