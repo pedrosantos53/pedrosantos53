@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Past Work
+# :desktop_computer: Past Work
 ##  Videos
 ### Below are a collection of videos for various completed works I've done in the past.
 ## Helix Framework related works
