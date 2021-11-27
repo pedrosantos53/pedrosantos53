@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ...
-	- GDOME: Cyberpunk Roleplay, a serious roleplay gamemode with RPG elements running on the Helix framework for Garry's Mod.
+	- GDOME: Cyberpunk Roleplay, 
+		- A serious roleplay gamemode with RPG elements. It is built upon the Helix framework created for Garry's Mod.
 - 🌱 I’m currently learning ...
  	- Lua
  	- Java
