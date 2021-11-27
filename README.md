@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Past Work
 ##  Videos
+### Below are a collection of videos for various completed works I've done in the past.
+## Helix Framework related works
 [Playlist for Helix Plugins](https://www.youtube.com/playlist?list=PL50V8K9LmkBKDSyHqVrG-ihJVH87Ilq6_)
 
 [Beard System for Helix](https://www.youtube.com/watch?v=l7DI9xsG8rw)
