@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ##  Videos
 ### Below are a collection of videos for various completed works I've done in the past.
 ## Helix Framework related works
-[Playlist for Helix Plugins](https://www.youtube.com/playlist?list=PL50V8K9LmkBKDSyHqVrG-ihJVH87Ilq6_)
+[Playlist of past work](https://www.youtube.com/playlist?list=PL50V8K9LmkBKDSyHqVrG-ihJVH87Ilq6_)
 
-[Beard System for Helix](https://www.youtube.com/watch?v=l7DI9xsG8rw)
+[Beard System](https://www.youtube.com/watch?v=l7DI9xsG8rw)
 
-[TDM Cars for Helix](https://www.youtube.com/watch?v=Gtc_TLLnlng)
+[TDM Cars](https://www.youtube.com/watch?v=Gtc_TLLnlng)
 
-[Global Shoot-to-Kill State for Helix](https://www.youtube.com/watch?v=EYbvaPSBzB8)
+[Global Shoot-to-Kill State](https://www.youtube.com/watch?v=EYbvaPSBzB8)
 
 
 # 🔭 I’m currently working on
