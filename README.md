@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 [Global Shoot-to-Kill State](https://www.youtube.com/watch?v=EYbvaPSBzB8)
 
+[Lambda Wars-style Building System](https://www.youtube.com/watch?v=wuZSVoIeAio)
+
 
 # 🔭 I’m currently working on
 ## GDOME: Cyberpunk Roleplay
