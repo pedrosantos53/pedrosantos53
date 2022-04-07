@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # :desktop_computer: Past Work
-## :tv: Videos
-### Below are a collection of videos for various completed works I've done in the past.
 ## Garry's Mod Helix Framework related works
 [Playlist of past work](https://www.youtube.com/playlist?list=PL50V8K9LmkBKDSyHqVrG-ihJVH87Ilq6_)
 
