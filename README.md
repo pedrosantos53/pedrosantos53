@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 -->
 
 # :desktop_computer: Past Work
-## Garry's Mod Helix Framework related works
+## Garry's Mod
 [Playlist of past work](https://www.youtube.com/playlist?list=PL50V8K9LmkBKDSyHqVrG-ihJVH87Ilq6_)
-
-[Beard System](https://www.youtube.com/watch?v=l7DI9xsG8rw)
-
-[TDM Cars](https://www.youtube.com/watch?v=Gtc_TLLnlng)
-
-[Global Shoot-to-Kill State](https://www.youtube.com/watch?v=EYbvaPSBzB8)
-
-[Lambda Wars-style Building System](https://www.youtube.com/watch?v=wuZSVoIeAio)
+[ChatGPT + ElevenLabs Voice AI NPC](https://www.youtube.com/watch?v=biY6L53FZ98)
+[auraWatch Live Transcription Telescreens](https://www.youtube.com/watch?v=uOO0xXQjl6I)
+[Command and Conquer: Renegade Ion Cannon Beacon](https://www.youtube.com/watch?v=zW4DtfKDaGg)
+[Project Warfront: Map Voting](https://www.youtube.com/watch?v=YF4IenuCkkI)
+[Project Warfront: Building System](https://www.youtube.com/watch?v=wuZSVoIeAio)
+[Helix Framework: Equipment Slots](https://www.youtube.com/watch?v=1ekrTUp2SYs)
+[Helix Framework: Beard System](https://www.youtube.com/watch?v=l7DI9xsG8rw)
+[Helix Framework: TDM Cars](https://www.youtube.com/watch?v=Gtc_TLLnlng)
+[Helix Framework: Global Shoot-to-Kill State](https://www.youtube.com/watch?v=EYbvaPSBzB8)
 
 
 # 🔭 I’m currently working on
