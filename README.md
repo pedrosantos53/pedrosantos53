@@ -3,15 +3,19 @@
 
 [Playlist of past work](https://www.youtube.com/playlist?list=PL50V8K9LmkBKDSyHqVrG-ihJVH87Ilq6)
 
-[ChatGPT + ElevenLabs Voice AI NPC](https://www.youtube.com/watch?v=biY6L53FZ98)
+[GDOME: Cyberpunk Roleplay - Alcohol and Speech Slurring](https://www.youtube.com/watch?v=W-EqAFozs0g)
 
-[auraWatch Live Transcription Telescreens](https://www.youtube.com/watch?v=uOO0xXQjl6I)
+[auraWatch: ChatGPT + ElevenLabs Voice AI NPC](https://www.youtube.com/watch?v=biY6L53FZ98)
 
-[Command and Conquer: Renegade Ion Cannon Beacon](https://www.youtube.com/watch?v=zW4DtfKDaGg)
+[auraWatch: Live Transcription Telescreens](https://www.youtube.com/watch?v=uOO0xXQjl6I)
 
 [Project Warfront: Map Voting](https://www.youtube.com/watch?v=YF4IenuCkkI)
 
 [Project Warfront: Building System](https://www.youtube.com/watch?v=wuZSVoIeAio)
+
+[Command and Conquer: Renegade Ion Cannon Beacon](https://www.youtube.com/watch?v=zW4DtfKDaGg)
+
+[Helix Framework: Star Wars KOTOR Style Conversation System](https://www.youtube.com/watch?v=IbCF6_qrfaI)
 
 [Helix Framework: Equipment Slots](https://www.youtube.com/watch?v=1ekrTUp2SYs)
 
