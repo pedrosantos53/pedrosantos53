@@ -1,7 +1,7 @@
 # :desktop_computer: Past Work
 ## Garry's Mod
 
-[Playlist of past work]((https://www.youtube.com/watch?v=l7DI9xsG8rw&list=PL50V8K9LmkBKDSyHqVrG-ihJVH87Ilq6_))
+[Playlist of past work](https://www.youtube.com/watch?v=l7DI9xsG8rw&list=PL50V8K9LmkBKDSyHqVrG-ihJVH87Ilq6)
 
 [GDOME: Cyberpunk Roleplay - Alcohol and Speech Slurring](https://www.youtube.com/watch?v=W-EqAFozs0g)
 
