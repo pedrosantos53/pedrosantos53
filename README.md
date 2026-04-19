@@ -9,6 +9,8 @@
 
 [auraWatch: Live Transcription Telescreens](https://www.youtube.com/watch?v=uOO0xXQjl6I)
 
+[Netspark UI Overhaul](https://www.youtube.com/watch?v=AiZRz0Y5t1Y)
+
 [Project Warfront: Map Voting](https://www.youtube.com/watch?v=YF4IenuCkkI)
 
 [Project Warfront: Building System](https://www.youtube.com/watch?v=wuZSVoIeAio)
